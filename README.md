@@ -1,0 +1,1 @@
+Working through the tutorial for the Second Edition of [*Test-Driven Development with Python*](http://www.obeythetestinggoat.com) by Harry J.W. Percival, teaching TDD using Python 3, Selenium 3, Fabric 3, Django 1.11, JavaScript, “and pals…”.
